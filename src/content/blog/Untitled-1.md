@@ -1,6 +1,6 @@
 ---  
 
-title: "二零二四年九月四日"  
+title: "2024-09-04"  
 pubDate: 2024-09-04  
 intro: ”藏在众多孤星之中“  
 tag: fuck  
